@@ -77,7 +77,8 @@ Semantic segmentation assigns a class label to every pixel (buildings, roads, ve
 
 ✅ **Selected Model:** SegFormer
 
-<img width="883" height="443" alt="image" src="https://github.com/user-attachments/assets/fdd023b7-46e8-4db6-b780-79aec0156233" />
+<img width="722" height="286" alt="image" src="https://github.com/user-attachments/assets/0970887b-4420-40e9-be6b-61253c91ed3e" />
+
 
 
 ---
