@@ -33,7 +33,8 @@ Depth provides **geometric context**, which improves:
 
 ### 🔁 Overall Pipeline
 
-![Overall Workflow](images/overall_pipeline.png)
+<img width="544" height="486" alt="image" src="https://github.com/user-attachments/assets/92fbd71a-e835-4bfb-be37-d9844f107852" />
+
 
 ---
 
@@ -47,7 +48,8 @@ Drone images often contain noise due to vibration, altitude, and weather conditi
 
 ✅ **Selected Model:** Custom U-Net
 
-![Denoising Results](images/denoising_results.png)
+<img width="768" height="412" alt="image" src="https://github.com/user-attachments/assets/143f135d-a435-45ea-9473-22b1e910beb2" />
+
 
 ---
 
@@ -61,7 +63,8 @@ Depth estimation is performed using **monocular RGB images**, removing the need 
 ✅ **Selected Model:** DPT Hybrid  
 It produces smoother depth gradients, sharper boundaries, and lower error metrics.
 
-![Depth Maps](images/depth_maps.png)
+<img width="846" height="321" alt="image" src="https://github.com/user-attachments/assets/2eaabf5a-1bcd-4d75-a5a3-90f707d491bd" />
+
 
 ---
 
@@ -74,7 +77,8 @@ Semantic segmentation assigns a class label to every pixel (buildings, roads, ve
 
 ✅ **Selected Model:** SegFormer
 
-![Segmentation Results](images/segmentation_results.png)
+<img width="883" height="443" alt="image" src="https://github.com/user-attachments/assets/fdd023b7-46e8-4db6-b780-79aec0156233" />
+
 
 ---
 
@@ -92,7 +96,7 @@ This improves:
 - Object separation  
 - Robustness under shadows and clutter  
 
-![Fusion Network](images/fusion_network.png)
+
 
 ---
 
@@ -104,7 +108,7 @@ This improves:
 | SegFormer (RGB) | RGB | 87.23 | 89.74 | 94.32 |
 | **Fusion SegFormer** | RGB + Depth | **90.68** | **92.51** | **96.14** |
 
-![Performance Metrics](images/performance_metrics.png)
+
 
 ---
 
