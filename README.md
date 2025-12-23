@@ -164,8 +164,8 @@ This project was developed as a team.
 
 
 ## 👤 Authors
-- Sailaka Adarsh  
+- Yenni Tarun
 - Shaik Sadik  
 - Vadigalla Karthik  
-- Yenni Tarun  
+- Sailaka Adarsh  
 - Chinnam John Paul  
