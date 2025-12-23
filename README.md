@@ -153,6 +153,15 @@ This repository is based on the research paper:
 International Journal of Research Publication and Reviews, 2025.
 
 ---
+## 🧑‍🤝‍🧑 Team Project
+
+This project was developed as a team.
+
+### My Contributions
+- Worked on depth estimation integration using MiDaS/DPT
+- Assisted in SAM-based segmentation refinement
+- Helped with experimentation, evaluation, and documentation
+
 
 ## 👤 Authors
 - Sailaka Adarsh  
